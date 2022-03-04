@@ -30,7 +30,7 @@ I’m a backend developer who loved crypto. My main carrier start in Java world 
 - 🌱 I’m currently learning Solidity  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Java and Web3 stack and related technologies  
   
 
 - ⚡ Fun fact: 2+2=4 is true but not always for accountant   
