@@ -24,10 +24,7 @@ I’m a backend developer who loved crypto. My main carrier start in Java world 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Moon Stone Games](https://moonstone.gg) and Maqpie  
-  
-
-- 🌱 I’m currently learning Solidity  
+- 🔭 I’m currently working on [Liqfinity](https://liqfinity.com) 
   
 
 - ❓ Ask me about anything related to Java and Web3 stack and related technologies  
